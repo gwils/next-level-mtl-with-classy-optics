@@ -1,0 +1,16 @@
+*.loc
+*.toc
+*.log
+*.idx
+*.aux
+*.out
+*.nav
+*.snm
+*.swp
+*.bak
+*.vrb
+*.hi
+*.o
+dist
+cabal.sandbox.config
+.cabal-sandbox
